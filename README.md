@@ -22,10 +22,10 @@
     <a href="https://twitter.com/FadhilDhanendra">
         <img src="https://skillicons.dev/icons?i=twitter">
     </a>&nbsp;
-    <a href="https://twitter.com/FadhilDhanendra">
+    <a href="https://www.instagram.com/fadhildhanendra.exe/">
         <img src="https://skillicons.dev/icons?i=instagram">
     </a>&nbsp;
-    <a href="https://twitter.com/FadhilDhanendra">
+    <a href="https://www.linkedin.com/in/fadhil-dhanendra/">
         <img src="https://skillicons.dev/icons?i=linkedin">
     </a>
 </p>
